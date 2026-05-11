@@ -5,13 +5,14 @@ logo: /images/0.gif
 # 首页图
 # Hero Section
 hero:
-  enable: false  # 是否开启首页图片
+  enable: true  # 是否开启首页图片
   background_image: /images/11.webp
   typing_text: 天接云涛连晓雾，星河欲转千帆舞
   typing_speed: 100
   delete_speed: 50
   pause_duration: 2000
   scroll_hint: 向下滚动探索更多
+
 
 # Article List 首页文章卡片大小
 article_list:
